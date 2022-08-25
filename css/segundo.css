@@ -1,0 +1,25 @@
+header {
+    background-color: gold;
+}
+
+img {
+    width: 60%;
+    margin: auto;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+    font-size: xx-large;
+    color: #0000FF;
+}
+
+.button {
+    color: #57576b;
+    width: 200px;
+    height: 50px;
+    font-weight: 600;
+    border: solid 4px;
+    border-image-source: linear-gradient(to bottom right, #203fef, #0adaff);
+    border-image-slice: 4;
+}
